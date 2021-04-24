@@ -3,12 +3,15 @@ Altium Designer component footprint and symbol library.
 
 1. [Project structure](#structure)
 2. [Naming convention](#naming-convention)
+3. [Symbol creation guidlenes](#symbol-creation-guidlines)
+4. [Footprint creation guidlenes](#footprint-creation-guidlines)
 
 #### Structure
 ```
 altium-library
 ├── 3Dmodels
 ├── footprints
+├── images
 ├── symbols
 └── templates
 ```
@@ -34,3 +37,26 @@ pcb_passive_capacitor_film_1206.PcbLib
 pcb_passive_resistor_0603.PcbLib
 pcb_ic_power_AEM10941_QFN_5x5mm.PcbLib
 ```
+
+#### Symbol creation guidlines
+Symbols are created according to "Unified System of Design Documentation"
+(единая система конструкторской документации - ЕСКД).
+
+#### Footprint creation guidlines
+Following mechanical layer usage convention is used:
+* Mechanical1  - Top Assembly
+* Mechanical2  - Bottom Assembly
+* Mechanical3  - Board Inner line
+* Mechanical4  - Board Outline
+* Mechanical5  - Dimensions
+* Mechanical6  - 
+* Mechanical7  - 
+* Mechanical8  - 
+* Mechanical9  - 
+* Mechanical10 - 
+* Mechanical11 - 
+* Mechanical12 - 
+* Mechanical13 - Component 3D model
+* Mechanical14 - 
+* Mechanical15 - Top Courtyard
+* Mechanical16 - Bottom Courtyard
