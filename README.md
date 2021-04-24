@@ -44,6 +44,7 @@ Symbols are created according to "Unified System of Design Documentation"
 
 #### Footprint creation guidlines
 Following mechanical layer usage convention is used:
+```
 * Mechanical1  - Top Assembly
 * Mechanical2  - Bottom Assembly
 * Mechanical3  - Board Inner line
@@ -60,3 +61,4 @@ Following mechanical layer usage convention is used:
 * Mechanical14 - 
 * Mechanical15 - Top Courtyard
 * Mechanical16 - Bottom Courtyard
+```
