@@ -1,13 +1,16 @@
 # Altium Designer library
 Altium Designer component footprint and symbol library.
 
+1. [Project structure](#structure)
+2. [Naming convention](#naming-convention)
+
 #### Structure
 ```
 altium-library
-├── 3Dmodel
-├── footprint
-├── symbol
-└── template
+├── 3Dmodels
+├── footprints
+├── symbols
+└── templates
 ```
 
 #### Naming convention
