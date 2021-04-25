@@ -10,9 +10,15 @@ Altium Designer component footprint and symbol library.
 ```
 altium-library
 ├── 3Dmodels
+├── database
+│   └── Component_DB.DbLib
+│   └── Component_DB.xls
+├── datasheets
 ├── footprints
+│   └── passives
 ├── images
 ├── symbols
+│   └── passives
 └── templates
 ```
 
