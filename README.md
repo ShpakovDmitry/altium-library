@@ -53,17 +53,17 @@ Following mechanical layer usage convention is used:
 ```
 * Mechanical1  - Top Assembly
 * Mechanical2  - Bottom Assembly
-* Mechanical3  - Board Inner line
+* Mechanical3  - Board Inner Line
 * Mechanical4  - Board Outline
 * Mechanical5  - Dimensions
-* Mechanical6  - 
-* Mechanical7  - 
-* Mechanical8  - 
+* Mechanical6  - Route Tool Path
+* Mechanical7  - V Cut
+* Mechanical8  - Fab Notes
 * Mechanical9  - 
 * Mechanical10 - 
 * Mechanical11 - 
 * Mechanical12 - 
-* Mechanical13 - Component 3D model
+* Mechanical13 - 3D model
 * Mechanical14 - 
 * Mechanical15 - Top Courtyard
 * Mechanical16 - Bottom Courtyard
