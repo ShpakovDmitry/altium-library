@@ -19,13 +19,25 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=passive_resistor$
+LastFocusedTable=power$
 [Table1]
 SchemaName=
 TableName=passive_resistor$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Footprint Ref0=197|Library Path0=247|Footprint Path0=289|Description0=475|Manufacturer Part Number0=160|UID0=58|Case Code(Imperial)0=124|Case Code(Metric)0=115|Comment0=72|Construction0=90|Contact Plating0=102|Depth0=55|Features0=104|Height0=58|Lead Free0=72|Length0=59|Manufacturer0=93|Max Operating Temperature0=167|Max Power Dissipation0=140|Military Standard0=111|Min Operating Temperature0=166|Number of Pins0=102|Number of Terminations0=147|Package Quantity0=113|Packaging0=76|Power Rating0=92|Radiation Hardening0=131|REACH SVHC0=89|Resistance0=77|Resistance Multiplier0=130|Resistance Units0=107|Resistance Tolerance0=129|Resistor Type0=90|RoHS Compliant0=107|Series0=53|Size Code0=73|Supplier0=79|Supplier Part Number0=133|Temperature Coefficient0=146|Termination0=84|Tolerance0=72|Voltage Rating0=100|Voltage Rating(DC)0=121|Width0=55|F460=41
+[Table2]
+SchemaName=
+TableName=power$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=101|Footprint Ref0=92|Library Path0=329|Footprint Path0=294|Description0=445|Manufacturer Part Number0=160|UID0=65|Comment0=101|Features0=184|Height0=58|Lead Free0=72|Manufacturer0=93|Max Operating Temperature0=167|Military Standard0=111|Min Operating Temperature0=166|Number of Pins0=102|Number of Terminations0=147|Radiation Hardening0=131|RoHS Compliant0=107|Supplier0=66|Supplier Part Number0=133|Mouting Style0=95|F230=41
 [FieldMap1]
 Options=FieldName=passive_resistor$.Library Ref|TableNameOnly=passive_resistor$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -37,4 +49,16 @@ Options=FieldName=passive_resistor$.Footprint Path|TableNameOnly=passive_resisto
 [FieldMap5]
 Options=FieldName=passive_resistor$.Description|TableNameOnly=passive_resistor$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=passive_resistor$.Manufacturer Part Number|TableNameOnly=passive_resistor$|FieldNameOnly=Manufacturer Part Number|FieldType=0|ParameterName=Manufacturer Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=passive_resistor$.UID|TableNameOnly=passive_resistor$|FieldNameOnly=UID|FieldType=0|ParameterName=UID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=power$.Library Ref|TableNameOnly=power$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=power$.Footprint Ref|TableNameOnly=power$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=power$.Library Path|TableNameOnly=power$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=power$.Footprint Path|TableNameOnly=power$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=power$.Description|TableNameOnly=power$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=power$.UID|TableNameOnly=power$|FieldNameOnly=UID|FieldType=0|ParameterName=UID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
