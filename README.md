@@ -15,10 +15,27 @@ altium-library
 │   └── Component_DB.xls
 ├── datasheets
 ├── footprints
-│   └── passives
+│   └── Capacitors
+│   └── Connectors
+│   └── Diodes
+│   └── ICs
+│   └── Inductors
+│   └── Mechanical
+│   └── Miscellaneous
+│   └── Resistors
+│   └── Standart
+│   └── Transistors
 ├── images
 ├── symbols
-│   └── passives
+│   └── Capacitors
+│   └── Connectors
+│   └── Diodes
+│   └── ICs
+│   └── Inductors
+│   └── Mechanical
+│   └── Miscellaneous
+│   └── Resistors
+│   └── Transistors
 └── templates
 ```
 
