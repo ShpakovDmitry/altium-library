@@ -2,9 +2,10 @@
 Altium Designer component footprint and symbol library.
 
 1. [Project structure](#structure)
-2. [Naming convention](#naming-convention)
-3. [Symbol creation guidlenes](#symbol-creation-guidlines)
-4. [Footprint creation guidlenes](#footprint-creation-guidlines)
+1. [Naming convention](#naming-convention)
+1. [Text formating](#text-formating)
+1. [Symbol creation guidlenes](#symbol-creation-guidlines)
+1. [Footprint creation guidlenes](#footprint-creation-guidlines)
 
 #### Structure
 ```
@@ -66,9 +67,15 @@ pcb_passive_resistor_0603.PcbLib
 pcb_ic_power_AEM10941_QFN_5x5mm.PcbLib
 ```
 
+#### Text formating
+Text font: `ISOCPEUR` `regular`.  
+Text size: `10pt`.  
+Text color: `black`.  
+
 #### Symbol creation guidlines
-Symbols are created according to "Unified System of Design Documentation"
-(единая система конструкторской документации - ЕСКД).
+Symbol lines are black color, size medium or small if medium is not available.  
+Pin distance `2.5mm`.  
+Primitives are snapped to grid of `1mm`, `2.5mm`, `5mm`.  
 
 #### Footprint creation guidlines
 Following mechanical layer usage convention is used:
