@@ -19,25 +19,43 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=capacitors$
+LastFocusedTable=crystals$
 [Table1]
 SchemaName=
 TableName=capacitors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=UID0=106|Library Path0=221|Library Ref0=120|Footprint Path0=235|Footprint Ref0=146|Description0=462|Manufacturer Part Number0=247|Manufacturer0=143|HelpURL0=648|Comment0=129|Lead Free0=113|RoHS Compliant0=165|Status0=87|Last Update0=131|Supplier Part Number0=250|Supplier0=102|Price @ 1 pcs, ˆ0=160|Price @ 10 pcs, ˆ0=169|Price @ 100 pcs, ˆ0=178|Price @ 1000 pcs, ˆ0=187|Lead Time, weeks0=172|Package0=103|Min Operating Temperature, °C0=280|Max Operating Temperature, °C0=283|Capacitance0=133|Tolerance, %0=137|Temperature Coefficient0=224|Rated Voltage, V0=168
 [Table2]
+SchemaName=
+TableName=crystals$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=UID0=104|Library Path0=199|Library Ref0=120|Footprint Path0=213|Footprint Ref0=139|Manufacturer Part Number0=247|Manufacturer0=151|HelpURL0=750|Description0=438|Comment0=116|Lead Free0=113|RoHS Compliant0=165|Status0=87|Last Update0=131|Supplier Part Number0=206|Supplier0=102|Price @ 1 pcs, ˆ0=160|Price @ 10 pcs, ˆ0=169|Price @ 100 pcs, ˆ0=178|Price @ 1000 pcs, ˆ0=187|Lead Time, weeks0=172|Package0=103|Min Operating Temperature, °C0=280|Max Operating Temperature, °C0=283|Frequency, Hz0=147|Tolerance, ppm0=158|Operating Mode0=166|Load Capacitance, F0=192|ESR, Ohm0=115|Frequency Aging, ppm/year0=251|Drive Power, W0=156|Max Working Voltage, V0=225|Withstanding Voltage, V0=226
+[Table3]
 SchemaName=
 TableName=mcus$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table3]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=UID0=112|Library Path0=184|Library Ref0=148|Footprint Path0=198|Footprint Ref0=148|Description0=996|Manufacturer Part Number0=247|Manufacturer0=217|HelpURL0=472|Comment0=243|Lead Free0=113|RoHS Compliant0=165|Status0=87|Last Update0=131|Supplier Part Number0=263|Supplier0=102|Price @ 1 pcs, ˆ0=160|Price @ 10 pcs, ˆ0=169|Price @ 100 pcs, ˆ0=178|Price @ 1000 pcs, ˆ0=187|Lead Time, weeks0=172|Package0=223|Min Operating Temperature, °C0=280|Max Operating Temperature, °C0=283|Min Rated Voltage, V0=202|Max Rated Voltage, V0=205|Architecture0=133|Core0=99|Bitness0=93|Clock Frequency, MHz0=208|Flash Size, KiB0=146|Ram Size, KiB0=142
+[Table4]
 SchemaName=
 TableName=resistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=UID0=102|Library Path0=206|Library Ref0=120|Footprint Path0=220|Footprint Ref0=139|Description0=694|Manufacturer Part Number0=247|Manufacturer0=143|HelpURL0=601|Comment0=116|Lead Free0=113|RoHS Compliant0=165|Status0=87|Last Update0=131|Supplier Part Number0=206|Supplier0=102|Price @ 1 pcs, ˆ0=160|Price @ 10 pcs, ˆ0=169|Price @ 100 pcs, ˆ0=178|Price @ 1000 pcs, ˆ0=187|Lead Time, weeks0=172|Package0=103|Min Operating Temperature, °C0=280|Max Operating Temperature, °C0=283|Resistance0=119|Tolerance, %0=137|Temperature Coefficient, ppm/C°0=292|Power, W0=112|Composition0=137|Rated Current, A0=167|Max Current, A0=155|Max Working Voltage, V0=225|Dielectric Withstanding Voltage, V0=301
 [FieldMap1]
 Options=FieldName=capacitors$.UID|TableNameOnly=capacitors$|FieldNameOnly=UID|FieldType=0|ParameterName=UID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -51,26 +69,38 @@ Options=FieldName=capacitors$.Footprint Ref|TableNameOnly=capacitors$|FieldNameO
 [FieldMap6]
 Options=FieldName=capacitors$.Description|TableNameOnly=capacitors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=mcus$.UID|TableNameOnly=mcus$|FieldNameOnly=UID|FieldType=0|ParameterName=UID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=crystals$.UID|TableNameOnly=crystals$|FieldNameOnly=UID|FieldType=0|ParameterName=UID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap8]
-Options=FieldName=mcus$.Library Path|TableNameOnly=mcus$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=crystals$.Library Path|TableNameOnly=crystals$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
-Options=FieldName=mcus$.Library Ref|TableNameOnly=mcus$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=crystals$.Library Ref|TableNameOnly=crystals$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
-Options=FieldName=mcus$.Footprint Path|TableNameOnly=mcus$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=crystals$.Footprint Path|TableNameOnly=crystals$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=mcus$.Footprint Ref|TableNameOnly=mcus$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=crystals$.Footprint Ref|TableNameOnly=crystals$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=mcus$.Description|TableNameOnly=mcus$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=crystals$.Description|TableNameOnly=crystals$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=resistors$.UID|TableNameOnly=resistors$|FieldNameOnly=UID|FieldType=0|ParameterName=UID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=mcus$.UID|TableNameOnly=mcus$|FieldNameOnly=UID|FieldType=0|ParameterName=UID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=resistors$.Library Path|TableNameOnly=resistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=mcus$.Library Path|TableNameOnly=mcus$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=resistors$.Library Ref|TableNameOnly=resistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=mcus$.Library Ref|TableNameOnly=mcus$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=resistors$.Footprint Path|TableNameOnly=resistors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=mcus$.Footprint Path|TableNameOnly=mcus$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=resistors$.Footprint Ref|TableNameOnly=resistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=mcus$.Footprint Ref|TableNameOnly=mcus$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
+Options=FieldName=mcus$.Description|TableNameOnly=mcus$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=resistors$.UID|TableNameOnly=resistors$|FieldNameOnly=UID|FieldType=0|ParameterName=UID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=resistors$.Library Path|TableNameOnly=resistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=resistors$.Library Ref|TableNameOnly=resistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=resistors$.Footprint Path|TableNameOnly=resistors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=resistors$.Footprint Ref|TableNameOnly=resistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
 Options=FieldName=resistors$.Description|TableNameOnly=resistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
