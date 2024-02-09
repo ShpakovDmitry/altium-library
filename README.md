@@ -12,32 +12,32 @@ Altium Designer component footprint and symbol library.
 altium-library
 ├── 3Dmodels
 ├── database
-│   └── Component_DB.DbLib
-│   └── Component_DB.xls
-├── datasheets
+│   └── component_db.xls
+│   └── components_db.DbLib
 ├── footprints
-│   └── Capacitors
-│   └── Connectors
-│   └── Diodes
-│   └── ICs
-│   └── Inductors
-│   └── Mechanical
-│   └── Miscellaneous
-│   └── Resistors
-│   └── Standart
-│   └── Transistors
-├── images
+│   └── capacitors
+│   └── connectors
+│   └── diodes
+│   └── mcus
+│   └── inductors
+│   └── mechanical
+│   └── miscellaneous
+│   └── resistors
+│   └── standart
+│   └── transistors
 ├── symbols
-│   └── Capacitors
-│   └── Connectors
-│   └── Diodes
-│   └── ICs
-│   └── Inductors
-│   └── Mechanical
-│   └── Miscellaneous
-│   └── Resistors
-│   └── Transistors
+│   └── capacitors
+│   └── connectors
+│   └── diodes
+│   └── mcus
+│   └── inductors
+│   └── mechanical
+│   └── miscellaneous
+│   └── resistors
+│   └── transistors
 └── templates
+│   └── AltiumPreferences.DXPPrf
+│   └── component-db.xls
 │   └── footprint.PcbLib
 │   └── iso-a3.SchDot
 │   └── iso-a4.SchDot
@@ -51,8 +51,8 @@ Text size: `10pt`.
 Text color: `black`.  
 
 #### Symbol creation guidlines
-Symbol lines are black color, size medium or small if medium is not available.  
-Pin distance `2.5mm`.  
+Symbol lines are black color, size small.  
+Pin to pin distance - `2.5mm`.  
 Primitives are snapped to grid of `1mm`, `2.5mm`, `5mm`.  
 
 #### Footprint creation guidlines
