@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=buttons$
+LastFocusedTable=crystals$
 [Table1]
 SchemaName=
 TableName=buttons$
@@ -38,12 +38,18 @@ TableName=connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=UID0=111|Library Path0=228|Library Ref0=120|Footprint Path0=242|Footprint Ref0=185|Description0=492|Manufacturer Part Number0=247|Manufacturer0=143|HelpURL0=105|Comment0=126|Lead Free0=113|RoHS Compliant0=165|Status0=87|Last Update0=131|Supplier Part Number0=206|Supplier0=102|Price @ 1 pcs0=142|Price @ 10 pcs0=151|Price @ 100 pcs0=160|Price @ 1000 pcs0=169|Lead Time0=118|Package0=103|Min Operating Temperature0=254|Max Operating Temperature0=257|Pin Count0=116|Row Count0=124|Pitch0=78
 [Table4]
 SchemaName=
 TableName=crystals$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=UID0=104|Library Path0=199|Library Ref0=139|Footprint Path0=213|Footprint Ref0=139|Description0=461|Manufacturer Part Number0=278|Manufacturer0=151|HelpURL0=800|Comment0=116|Lead Free0=113|RoHS Compliant0=165|Status0=87|Last Update0=131|Supplier Part Number0=206|Supplier0=102|Price @ 1 pcs0=142|Price @ 10 pcs0=151|Price @ 100 pcs0=160|Price @ 1000 pcs0=169|Lead Time0=118|Package0=103|Min Operating Temperature0=254|Max Operating Temperature0=257|Frequency0=118|Tolerance0=114|Operating Mode0=166|Load Capacitance0=175|ESR0=68|Frequency Aging0=168|Drive Power, W0=156|Max Working Voltage0=205|Withstanding Voltage0=206|Drive Power0=131
 [Table5]
 SchemaName=
 TableName=inductors$
