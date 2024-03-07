@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=capacitors$
+LastFocusedTable=inductors$
 [Table1]
 SchemaName=
 TableName=batteries$
@@ -44,9 +44,6 @@ TableName=capacitors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=UID0=106|Library Path0=221|Library Ref0=120|Footprint Path0=235|Footprint Ref0=146|Description0=523|Manufacturer Part Number0=247|Manufacturer0=207|HelpURL0=810|Comment0=129|Lead Free0=113|RoHS Compliant0=165|Status0=87|Last Update0=131|Supplier Part Number0=285|Supplier0=102|Price @ 1 pcs0=142|Price @ 10 pcs0=151|Price @ 100 pcs0=160|Price @ 1000 pcs0=169|Lead Time0=118|Package0=103|Min Operating Temperature0=254|Max Operating Temperature0=257|Capacitance0=133|Tolerance0=114|Temperature Coefficient0=224|Rated Voltage0=148|Features0=254|Applications0=246
 [Table5]
 SchemaName=
 TableName=chip-antennas$
@@ -77,6 +74,9 @@ TableName=inductors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=UID0=104|Library Path0=215|Library Ref0=120|Footprint Path0=229|Footprint Ref0=179|Description0=654|Manufacturer Part Number0=247|Manufacturer0=207|HelpURL0=796|Comment0=121|Lead Free0=113|RoHS Compliant0=165|Status0=87|Last Update0=131|Supplier Part Number0=271|Supplier0=102|Price @ 1 pcs0=142|Price @ 10 pcs0=151|Price @ 100 pcs0=160|Price @ 1000 pcs0=169|Lead Time0=118|Package0=103|Min Operating Temperature0=254|Max Operating Temperature0=257|Inductance0=125|Tolerance0=114|Material Core0=143|Rated Current0=147|Saturation Current0=182|Shielding0=110|Type0=181|DC Resistance0=147|Measuring Frequency0=203|Q @ Frequency0=157|Self Resonant Frequency0=226|Mounting Type0=156
 [Table10]
 SchemaName=
 TableName=leds$
